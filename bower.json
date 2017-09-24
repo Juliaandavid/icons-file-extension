@@ -1,0 +1,36 @@
+{
+  "name": "icons-file-extension",
+  "description": "Icons for files in svg format.",
+  "main": "index.js",
+  "version": "0.1",
+  "authors": [
+    "Julian Izquierdo"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "file",
+    "extensions",
+    "file",
+    "types",
+    "file",
+    "types",
+    "extensions",
+    "file",
+    "icons",
+    "icons",
+    "svg",
+    "icons",
+    "vector",
+    "icons",
+    "colorful",
+    "icons"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
